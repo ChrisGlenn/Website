@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
+/* font-family: 'Teko', sans-serif; */
+/* #735F32 darker gold */
+/* #282A3A blue */
+
+body {
+    background-color: #000000;
+}
+
+.site-title {
+    border-bottom: 0.2rem solid #c69749;
+}
+
+.site-title h1 {
+    color: #c69749;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 10rem;
+    margin: 0px 0px 0px 0px;
+}
