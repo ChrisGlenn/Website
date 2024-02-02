@@ -35,6 +35,10 @@ header #site-title h1 {
     text-align: center;
 }
 
+#main-games {
+    padding-top: 40px;
+}
+
 #main-games p {
     text-align: center;
 }
